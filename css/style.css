@@ -482,7 +482,7 @@ body {
 }
 .basket-intro {
     height: 100vh;
-    background-image: url('/img/Lights-Cafe-e1605080260430.jpg');
+    background-image: url('../img/Lights-Cafe-e1605080260430.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -507,7 +507,7 @@ body {
 }
 
 .basket {
-    background-image: url('/img/sparkles-e1605080235441.jpg');
+    background-image: url('../img/sparkles-e1605080235441.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
